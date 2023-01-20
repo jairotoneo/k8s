@@ -1,4 +1,4 @@
-sudo hostnamectl set-hostname
+sudo hostnamectl set-hostname <nome_do_server>
 
 sudo vi /etc/hosts
   //Adicione ao arquivo as configurações de ip e nome dos nós
